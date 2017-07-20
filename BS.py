@@ -1,2 +1,4 @@
-import math
+from math import *
 
+t = e
+print(t)
